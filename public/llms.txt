@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Sold Out is your trusted digital marketplace for buying and selling premium accounts. Secure transactions, verified sellers, and instant delivery. Start trading today!
+
+### Marketplace
+https://example.com/marketplace
+Discover thousands of verified digital accounts available now. From gaming to streaming, find exactly what you need with target account selling made simple and safe.
+
+### How It Works
+https://example.com/how-it-works
+Learn how Sold Out protects buyers and sellers with escrow services, verification systems, and instant transfers. Safe key account sales in three easy steps.
+
+### Contact
+https://example.com/contact
+Need help with concert sold out listings or account sales? Our dedicated support team is here 24/7 to assist with questions, disputes, and account verification.
+
+### Products
+https://example.com/products
+Our Products - Sold Out
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Sold Out
+
+### Category
+https://example.com/category/:slug
+Products - Sold Out
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
